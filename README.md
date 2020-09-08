@@ -1,2 +1,2 @@
-# google-pages
+# google_pages
 First HTML/CSS project
