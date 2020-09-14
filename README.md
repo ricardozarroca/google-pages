@@ -3,7 +3,7 @@ First HTML/CSS project
 
 Brief description
 
-This project is be build the google homepage (a look like page really...).
+This project consist in trying to build the google homepage (a look like page really...).
 
 ----------------------------------------------
 
