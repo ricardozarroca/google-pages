@@ -3,6 +3,12 @@ First HTML/CSS project
 
 Brief description
 
-This project will be made of 2 parts.
-The first one will be build the google homepage (a look like page really...).
-The second one will be build the google search result page.
+This project is be build the google homepage (a look like page really...).
+
+----------------------------------------------
+
+Learned Outputs:
+
+Practice in HTML basis: head, body, divisions, attributes. 
+Practice in CSS basis: selectors, styling, margin, padding, positioning.
+Brief practice in grids.
